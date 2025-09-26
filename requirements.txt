@@ -1,0 +1,6 @@
+flask
+pymongo[srv]
+pandas
+groq
+python-dotenv
+openpyxl
