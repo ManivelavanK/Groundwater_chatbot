@@ -136,4 +136,4 @@ For educational & demonstration purposes.
 
 👥 CONTRIBUTORS
 
-NEURO CODERS
+NEURA CODERS
